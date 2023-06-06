@@ -2,4 +2,6 @@ Django==4.2.1
 django-crispy-forms==2.0
 Pillow==9.5.0
 pipreqs==0.4.13
-gunicorn
+gunicorn==20.1.0
+dj-database-url==1.2.0
+paycopg2-binary==2.9.5
